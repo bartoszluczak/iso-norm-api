@@ -219,7 +219,6 @@
           "other_information": ""
         }
       },
-
       "3": {
         "sectionNumber": "7",
         "sectionTitle": "Human resource security",
@@ -396,234 +395,418 @@
         "sectionNumber": "9",
         "sectionTitle": "Access control",
         "subsectionNumber": "1",
-        "subsectionTitle": "",
+        "subsectionTitle": "Business requirements of access control",
         "itemNumber": "9.1",
-        "objective": ""
+        "objective": "",
+        "1": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Business requirements of access control",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Access control policy",
+          "itemNumber": "9.1.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Business requirements of access control",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Access to networks and network services",
+          "itemNumber": "9.1.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
       },
       "2": {
         "sectionNumber": "9",
         "sectionTitle": "Access control",
         "subsectionNumber": "2",
-        "subsectionTitle": "",
+        "subsectionTitle": "User access management",
         "itemNumber": "9.2",
-        "objective": ""
-      }
-    },
-    "10": {
-      "sectionNumber": "10",
-      "sectionTitle": "Cryptography",
-      "1": {
+        "objective": "",
+        "1": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "2",
+          "subsectionTitle": "User access management",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "User registration and de-registration",
+          "itemNumber": "9.2.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "2",
+          "subsectionTitle": "User access management",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "User access provisioning",
+          "itemNumber": "9.2.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "3": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "2",
+          "subsectionTitle": "User access management",
+          "subSubsectionNumber": "3",
+          "subSectionTitle": "Management of privileged access rights",
+          "itemNumber": "9.2.3",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "4": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "2",
+          "subsectionTitle": "User access management",
+          "subSubsectionNumber": "4",
+          "subSectionTitle": "Management of secret authentication information of users",
+          "itemNumber": "9.2.4",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "5": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "2",
+          "subsectionTitle": "User access management",
+          "subSubsectionNumber": "5",
+          "subSectionTitle": "Review of user access rights",
+          "itemNumber": "9.2.5",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "6": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "2",
+          "subsectionTitle": "User access management",
+          "subSubsectionNumber": "6",
+          "subSectionTitle": "Removal or adjustment of access rights",
+          "itemNumber": "9.2.6",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      },
+      "3": {
+        "sectionNumber": "9",
+        "sectionTitle": "Access control",
+        "subsectionNumber": "3",
+        "subsectionTitle": "User responsibilities",
+        "itemNumber": "9.3",
+        "objective": "",
+        "1": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "3",
+          "subsectionTitle": "User responsibilities",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Use of secret authentication information",
+          "itemNumber": "9.3.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "4": {
+          "sectionNumber": "9",
+          "sectionTitle": "Access control",
+          "subsectionNumber": "4",
+          "subsectionTitle": "System and application access control",
+          "itemNumber": "9.4",
+          "objective": "",
+          "1": {
+            "sectionNumber": "9",
+            "sectionTitle": "Access control",
+            "subsectionNumber": "4",
+            "subsectionTitle": "System and application access control",
+            "subSubsectionNumber": "1",
+            "subSectionTitle": "Information access restriction",
+            "itemNumber": "9.4.1",
+            "control": "",
+            "implementation_guidance": "",
+            "other_information": ""
+          },
+          "2": {
+            "sectionNumber": "9",
+            "sectionTitle": "Access control",
+            "subsectionNumber": "4",
+            "subsectionTitle": "System and application access control",
+            "subSubsectionNumber": "2",
+            "subSectionTitle": "Secure log-on procedures",
+            "itemNumber": "9.4.2",
+            "control": "",
+            "implementation_guidance": "",
+            "other_information": ""
+          },
+          "3": {
+            "sectionNumber": "9",
+            "sectionTitle": "Access control",
+            "subsectionNumber": "4",
+            "subsectionTitle": "System and application access control",
+            "subSubsectionNumber": "3",
+            "subSectionTitle": "Password management system",
+            "itemNumber": "9.4.3",
+            "control": "",
+            "implementation_guidance": "",
+            "other_information": ""
+          },
+          "4": {
+            "sectionNumber": "9",
+            "sectionTitle": "Access control",
+            "subsectionNumber": "4",
+            "subsectionTitle": "System and application access control",
+            "subSubsectionNumber": "4",
+            "subSectionTitle": "Use of privileged utility programs",
+            "itemNumber": "9.4.4",
+            "control": "",
+            "implementation_guidance": "",
+            "other_information": ""
+          },
+          "5": {
+            "sectionNumber": "9",
+            "sectionTitle": "Access control",
+            "subsectionNumber": "4",
+            "subsectionTitle": "System and application access control",
+            "subSubsectionNumber": "5",
+            "subSectionTitle": "Access control to program source code",
+            "itemNumber": "9.4.5",
+            "control": "",
+            "implementation_guidance": "",
+            "other_information": ""
+          }
+        }
+      },
+      "10": {
         "sectionNumber": "10",
         "sectionTitle": "Cryptography",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "10.1",
-        "objective": ""
-      }
-    },
-    "11": {
-      "sectionNumber": "11",
-      "sectionTitle": "Physical and environmental security",
-      "1": {
+        "1": {
+          "sectionNumber": "10",
+          "sectionTitle": "Cryptography",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "10.1",
+          "objective": ""
+        }
+      },
+      "11": {
         "sectionNumber": "11",
         "sectionTitle": "Physical and environmental security",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "11.1",
-        "objective": ""
+        "1": {
+          "sectionNumber": "11",
+          "sectionTitle": "Physical and environmental security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "11.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "11",
+          "sectionTitle": "Physical and environmental security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "11.2",
+          "objective": ""
+        }
       },
-      "2": {
-        "sectionNumber": "11",
-        "sectionTitle": "Physical and environmental security",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "11.2",
-        "objective": ""
-      }
-    },
-    "12": {
-      "sectionNumber": "12",
-      "sectionTitle": "Operations security",
-      "1": {
+      "12": {
         "sectionNumber": "12",
         "sectionTitle": "Operations security",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "12.1",
-        "objective": ""
+        "1": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "12.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "12.2",
+          "objective": ""
+        },
+        "3": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "3",
+          "subsectionTitle": "",
+          "itemNumber": "12.3",
+          "objective": ""
+        },
+        "4": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "4",
+          "subsectionTitle": "",
+          "itemNumber": "12.4",
+          "objective": ""
+        },
+        "5": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "5",
+          "subsectionTitle": "",
+          "itemNumber": "12.5",
+          "objective": ""
+        },
+        "6": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "6",
+          "subsectionTitle": "",
+          "itemNumber": "12.6",
+          "objective": ""
+        },
+        "7": {
+          "sectionNumber": "12",
+          "sectionTitle": "Operations security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "12.1",
+          "objective": ""
+        }
       },
-      "2": {
-        "sectionNumber": "12",
-        "sectionTitle": "Operations security",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "12.2",
-        "objective": ""
-      },
-      "3": {
-        "sectionNumber": "12",
-        "sectionTitle": "Operations security",
-        "subsectionNumber": "3",
-        "subsectionTitle": "",
-        "itemNumber": "12.3",
-        "objective": ""
-      },
-      "4": {
-        "sectionNumber": "12",
-        "sectionTitle": "Operations security",
-        "subsectionNumber": "4",
-        "subsectionTitle": "",
-        "itemNumber": "12.4",
-        "objective": ""
-      },
-      "5": {
-        "sectionNumber": "12",
-        "sectionTitle": "Operations security",
-        "subsectionNumber": "5",
-        "subsectionTitle": "",
-        "itemNumber": "12.5",
-        "objective": ""
-      },
-      "6": {
-        "sectionNumber": "12",
-        "sectionTitle": "Operations security",
-        "subsectionNumber": "6",
-        "subsectionTitle": "",
-        "itemNumber": "12.6",
-        "objective": ""
-      },
-      "7": {
-        "sectionNumber": "12",
-        "sectionTitle": "Operations security",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "12.1",
-        "objective": ""
-      }
-    },
-    "13": {
-      "sectionNumber": "13",
-      "sectionTitle": "Communications security",
-      "objective": "",
-      "1": {
+      "13": {
         "sectionNumber": "13",
         "sectionTitle": "Communications security",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "13.1",
-        "objective": ""
+        "objective": "",
+        "1": {
+          "sectionNumber": "13",
+          "sectionTitle": "Communications security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "13.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "13",
+          "sectionTitle": "Communications security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "13.2",
+          "objective": ""
+        }
       },
-      "2": {
-        "sectionNumber": "13",
-        "sectionTitle": "Communications security",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "13.2",
-        "objective": ""
-      }
-    },
-    "14": {
-      "sectionNumber": "14",
-      "sectionTitle": "System acquisition, development and maintenance",
-      "objective": "",
-      "1": {
+      "14": {
         "sectionNumber": "14",
         "sectionTitle": "System acquisition, development and maintenance",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "14.1",
-        "objective": ""
+        "objective": "",
+        "1": {
+          "sectionNumber": "14",
+          "sectionTitle": "System acquisition, development and maintenance",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "14.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "14",
+          "sectionTitle": "System acquisition, development and maintenance",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "14.2",
+          "objective": ""
+        },
+        "3": {
+          "sectionNumber": "14",
+          "sectionTitle": "System acquisition, development and maintenance",
+          "subsectionNumber": "3",
+          "subsectionTitle": "",
+          "itemNumber": "14.3",
+          "objective": ""
+        }
       },
-      "2": {
-        "sectionNumber": "14",
-        "sectionTitle": "System acquisition, development and maintenance",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "14.2",
-        "objective": ""
-      },
-      "3": {
-        "sectionNumber": "14",
-        "sectionTitle": "System acquisition, development and maintenance",
-        "subsectionNumber": "3",
-        "subsectionTitle": "",
-        "itemNumber": "14.3",
-        "objective": ""
-      }
-    },
-    "15": {
-      "sectionNumber": "15",
-      "sectionTitle": "Supplier relationship",
-      "objective": "",
-      "1": {
+      "15": {
         "sectionNumber": "15",
         "sectionTitle": "Supplier relationship",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "15.1",
-        "objective": ""
+        "objective": "",
+        "1": {
+          "sectionNumber": "15",
+          "sectionTitle": "Supplier relationship",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "15.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "15",
+          "sectionTitle": "Supplier relationship",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "15.2",
+          "objective": ""
+        }
       },
-      "2": {
-        "sectionNumber": "15",
-        "sectionTitle": "Supplier relationship",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "15.2",
-        "objective": ""
-      }
-    },
-    "16": {
-      "sectionNumber": "16",
-      "sectionTitle": "Information security incident management",
-      "objective": "",
-      "1": {
+      "16": {
         "sectionNumber": "16",
         "sectionTitle": "Information security incident management",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "16.1",
-        "objective": ""
-      }
-    },
-    "17": {
-      "sectionNumber": "17",
-      "sectionTitle": "Information security aspects of business continuity management",
-      "objective": "",
-      "1": {
-        "sectionNumber": "17",
-        "sectionTitle": "Information security incident management",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "17.1",
-        "objective": ""
+        "objective": "",
+        "1": {
+          "sectionNumber": "16",
+          "sectionTitle": "Information security incident management",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "16.1",
+          "objective": ""
+        }
       },
-      "2": {
+      "17": {
         "sectionNumber": "17",
-        "sectionTitle": "Information security incident management",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "17.2",
-        "objective": ""
-      }
-    },
-    "18": {
-      "sectionNumber": "18",
-      "sectionTitle": "Compliance",
-      "1": {
+        "sectionTitle": "Information security aspects of business continuity management",
+        "objective": "",
+        "1": {
+          "sectionNumber": "17",
+          "sectionTitle": "Information security incident management",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "17.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "17",
+          "sectionTitle": "Information security incident management",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "17.2",
+          "objective": ""
+        }
+      },
+      "18": {
         "sectionNumber": "18",
         "sectionTitle": "Compliance",
-        "subsectionNumber": "1",
-        "subsectionTitle": "",
-        "itemNumber": "18.1",
-        "objective": ""
-      },
-      "2": {
-        "sectionNumber": "18",
-        "sectionTitle": "Compliance",
-        "subsectionNumber": "2",
-        "subsectionTitle": "",
-        "itemNumber": "18.2",
-        "objective": ""
+        "1": {
+          "sectionNumber": "18",
+          "sectionTitle": "Compliance",
+          "subsectionNumber": "1",
+          "subsectionTitle": "",
+          "itemNumber": "18.1",
+          "objective": ""
+        },
+        "2": {
+          "sectionNumber": "18",
+          "sectionTitle": "Compliance",
+          "subsectionNumber": "2",
+          "subsectionTitle": "",
+          "itemNumber": "18.2",
+          "objective": ""
+        }
       }
     }
   }
