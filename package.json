@@ -1,0 +1,16 @@
+{
+  "name": "iso27001-api",
+  "version": "1.0.0",
+  "description": "API returning ISO27001 norms",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "bl",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "norms": {
+    "5": {
+      "sectionNumber": "5",
+      "sectionTitle": "Information security policies",
+      "1": {
+        "sectionNumber": "5",
+        "sectionTitle": "Information security policies",
+        "subsectionNumber": "1",
+        "subsectionTitle": "Management direction for information security",
+        "itemNumber": "5.1",
+        "objective": "",
+        "1": {
+          "sectionNumber": "5",
+          "sectionTitle": "Information security policies",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Management direction for information security",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Policies for information security",
+          "itemNumber": "5.1.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "5",
+          "sectionTitle": "Information security policies",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Management direction for information security",
+          "subSubsectionNumber": "2",
+          "subSubsectionTitle": "Policies for information security",
+          "itemNumber": "5.1.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      }
+    },
+    "6": {
+      "sectionNumber": "6",
+      "sectionTitle": "Organization of information security",
+      "1": {
+        "sectionNumber": "6",
+        "sectionTitle": "Organization of information security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "Internal organization",
+        "itemNumber": "6.1",
+        "objective": "",
+        "1": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Internal organization",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Information security roles and responsibilities",
+          "itemNumber": "6.1.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Internal organization",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Segregation of duties",
+          "itemNumber": "6.1.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "3": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Internal organization",
+          "subSubsectionNumber": "3",
+          "subSectionTitle": "Contact with authorities",
+          "itemNumber": "6.1.3",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "4": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Internal organization",
+          "subSubsectionNumber": "4",
+          "subSectionTitle": "Contact with special interest groups",
+          "itemNumber": "6.1.4",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "5": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Internal organization",
+          "subSubsectionNumber": "5",
+          "subSectionTitle": "Information security in project management",
+          "itemNumber": "6.1.5",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      },
+      "2": {
+        "sectionNumber": "6",
+        "sectionTitle": "Organization of information security",
+        "subsectionNumber": "2",
+        "subsectionTitle": "Mobile device and teleworking",
+        "itemNumber": "6.2",
+        "objective": "",
+        "1": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "Mobile device and teleworking",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Mobile device policy",
+          "itemNumber": "6.2.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "6",
+          "sectionTitle": "Organization of information security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "Mobile device and teleworking",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Teleworking",
+          "itemNumber": "6.2.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      }
+    },
+    "7": {
+      "sectionNumber": "7",
+      "sectionTitle": "Human resource security",
+      "1": {
+        "sectionNumber": "7",
+        "sectionTitle": "Human resource security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "Priori to employment",
+        "itemNumber": "7.1",
+        "objective": "",
+        "1": {
+          "sectionNumber": "7",
+          "sectionTitle": "Human resource security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Priori to employment",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Screening",
+          "itemNumber": "7.1.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "7",
+          "sectionTitle": "Human resource security",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Priori to employment",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Terms and conditions of employment",
+          "itemNumber": "7.1.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      },
+      "2": {
+        "sectionNumber": "7",
+        "sectionTitle": "Human resource security",
+        "subsectionNumber": "2",
+        "subsectionTitle": "During employment",
+        "itemNumber": "7.2",
+        "objective": "",
+        "1": {
+          "sectionNumber": "7",
+          "sectionTitle": "Human resource security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "During employment",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Management responsibilities",
+          "itemNumber": "7.2.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "7",
+          "sectionTitle": "Human resource security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "During employment",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Information security awareness, education and training",
+          "itemNumber": "7.2.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "3": {
+          "sectionNumber": "7",
+          "sectionTitle": "Human resource security",
+          "subsectionNumber": "2",
+          "subsectionTitle": "During employment",
+          "subSubsectionNumber": "3",
+          "subSectionTitle": "Disciplinary process",
+          "itemNumber": "7.2.3",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      },
+
+      "3": {
+        "sectionNumber": "7",
+        "sectionTitle": "Human resource security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "Termination and change of employment",
+        "itemNumber": "7.3",
+        "objective": "",
+        "1": {
+          "sectionNumber": "7",
+          "sectionTitle": "Human resource security",
+          "subsectionNumber": "3",
+          "subsectionTitle": "Termination and change of employment",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Termination or change of employment responsibilities",
+          "itemNumber": "7.3.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      }
+    },
+    "8": {
+      "sectionNumber": "8",
+      "sectionTitle": "Asset management",
+      "1": {
+        "sectionNumber": "8",
+        "sectionTitle": "Asset management",
+        "subsectionNumber": "1",
+        "subsectionTitle": "Responsibility for assets",
+        "itemNumber": "8.1",
+        "objective": "",
+        "1": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Responsibility for assets",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Inventory of assets",
+          "itemNumber": "8.1.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Responsibility for assets",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Ownership of assets",
+          "itemNumber": "8.1.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "3": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Responsibility for assets",
+          "subSubsectionNumber": "3",
+          "subSectionTitle": "Acceptable use of assets",
+          "itemNumber": "8.1.3",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "4": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "1",
+          "subsectionTitle": "Responsibility for assets",
+          "subSubsectionNumber": "4",
+          "subSectionTitle": "Return of assets",
+          "itemNumber": "8.1.4",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      },
+      "2": {
+        "sectionNumber": "8",
+        "sectionTitle": "Asset management",
+        "subsectionNumber": "2",
+        "subsectionTitle": "Information classification",
+        "itemNumber": "8.2",
+        "objective": "",
+        "1": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "2",
+          "subsectionTitle": "Information classification",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Classification of information",
+          "itemNumber": "8.2.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "2",
+          "subsectionTitle": "Information classification",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Labelling of information",
+          "itemNumber": "8.2.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "3": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "2",
+          "subsectionTitle": "Information classification",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Handling of assets",
+          "itemNumber": "8.2.3",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      },
+      "3": {
+        "sectionNumber": "8",
+        "sectionTitle": "Asset management",
+        "subsectionNumber": "3",
+        "subsectionTitle": "Media handling",
+        "itemNumber": "8.3",
+        "objective": "",
+        "1": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "3",
+          "subsectionTitle": "Media handling",
+          "subSubsectionNumber": "1",
+          "subSectionTitle": "Management of removable media",
+          "itemNumber": "8.3.1",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "2": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "3",
+          "subsectionTitle": "Media handling",
+          "subSubsectionNumber": "2",
+          "subSectionTitle": "Disposal of media",
+          "itemNumber": "8.3.2",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        },
+        "3": {
+          "sectionNumber": "8",
+          "sectionTitle": "Asset management",
+          "subsectionNumber": "3",
+          "subsectionTitle": "Media handling",
+          "subSubsectionNumber": "3",
+          "subSectionTitle": "Physical media transfer",
+          "itemNumber": "8.3.3",
+          "control": "",
+          "implementation_guidance": "",
+          "other_information": ""
+        }
+      }
+    },
+    "9": {
+      "sectionNumber": "9",
+      "sectionTitle": "Access control",
+      "1": {
+        "sectionNumber": "9",
+        "sectionTitle": "Access control",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "9.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "9",
+        "sectionTitle": "Access control",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "9.2",
+        "objective": ""
+      }
+    },
+    "10": {
+      "sectionNumber": "10",
+      "sectionTitle": "Cryptography",
+      "1": {
+        "sectionNumber": "10",
+        "sectionTitle": "Cryptography",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "10.1",
+        "objective": ""
+      }
+    },
+    "11": {
+      "sectionNumber": "11",
+      "sectionTitle": "Physical and environmental security",
+      "1": {
+        "sectionNumber": "11",
+        "sectionTitle": "Physical and environmental security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "11.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "11",
+        "sectionTitle": "Physical and environmental security",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "11.2",
+        "objective": ""
+      }
+    },
+    "12": {
+      "sectionNumber": "12",
+      "sectionTitle": "Operations security",
+      "1": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "12.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "12.2",
+        "objective": ""
+      },
+      "3": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "3",
+        "subsectionTitle": "",
+        "itemNumber": "12.3",
+        "objective": ""
+      },
+      "4": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "4",
+        "subsectionTitle": "",
+        "itemNumber": "12.4",
+        "objective": ""
+      },
+      "5": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "5",
+        "subsectionTitle": "",
+        "itemNumber": "12.5",
+        "objective": ""
+      },
+      "6": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "6",
+        "subsectionTitle": "",
+        "itemNumber": "12.6",
+        "objective": ""
+      },
+      "7": {
+        "sectionNumber": "12",
+        "sectionTitle": "Operations security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "12.1",
+        "objective": ""
+      }
+    },
+    "13": {
+      "sectionNumber": "13",
+      "sectionTitle": "Communications security",
+      "objective": "",
+      "1": {
+        "sectionNumber": "13",
+        "sectionTitle": "Communications security",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "13.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "13",
+        "sectionTitle": "Communications security",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "13.2",
+        "objective": ""
+      }
+    },
+    "14": {
+      "sectionNumber": "14",
+      "sectionTitle": "System acquisition, development and maintenance",
+      "objective": "",
+      "1": {
+        "sectionNumber": "14",
+        "sectionTitle": "System acquisition, development and maintenance",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "14.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "14",
+        "sectionTitle": "System acquisition, development and maintenance",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "14.2",
+        "objective": ""
+      },
+      "3": {
+        "sectionNumber": "14",
+        "sectionTitle": "System acquisition, development and maintenance",
+        "subsectionNumber": "3",
+        "subsectionTitle": "",
+        "itemNumber": "14.3",
+        "objective": ""
+      }
+    },
+    "15": {
+      "sectionNumber": "15",
+      "sectionTitle": "Supplier relationship",
+      "objective": "",
+      "1": {
+        "sectionNumber": "15",
+        "sectionTitle": "Supplier relationship",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "15.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "15",
+        "sectionTitle": "Supplier relationship",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "15.2",
+        "objective": ""
+      }
+    },
+    "16": {
+      "sectionNumber": "16",
+      "sectionTitle": "Information security incident management",
+      "objective": "",
+      "1": {
+        "sectionNumber": "16",
+        "sectionTitle": "Information security incident management",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "16.1",
+        "objective": ""
+      }
+    },
+    "17": {
+      "sectionNumber": "17",
+      "sectionTitle": "Information security aspects of business continuity management",
+      "objective": "",
+      "1": {
+        "sectionNumber": "17",
+        "sectionTitle": "Information security incident management",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "17.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "17",
+        "sectionTitle": "Information security incident management",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "17.2",
+        "objective": ""
+      }
+    },
+    "18": {
+      "sectionNumber": "18",
+      "sectionTitle": "Compliance",
+      "1": {
+        "sectionNumber": "18",
+        "sectionTitle": "Compliance",
+        "subsectionNumber": "1",
+        "subsectionTitle": "",
+        "itemNumber": "18.1",
+        "objective": ""
+      },
+      "2": {
+        "sectionNumber": "18",
+        "sectionTitle": "Compliance",
+        "subsectionNumber": "2",
+        "subsectionTitle": "",
+        "itemNumber": "18.2",
+        "objective": ""
+      }
+    }
+  }
+}
