@@ -10,11 +10,19 @@ app.get("/", (req, res) => {
 });
 
 app.get("/rest/langs", async (req, res) => {
-  await fs.readFile('./db/languages.json', async(err, data) => {
-    if (err) throw err;
-    const languages = await JSON.parse(data);
-    res.json(languages);
-  });
+
+    const files = fs.readdirSync("./db");
+    const languages = [];
+
+    files.forEach(file => {
+      const fileName = file.split(".")[0];
+
+      if (fileName) {
+        languages.push(fileName);
+      }
+    })
+
+    res.json(languages.length > 0 ? languages : "No results to display");
 })
 
 app.get("/rest/:lang/all", (req, res) => {
@@ -26,12 +34,26 @@ app.get("/rest/:lang/all", (req, res) => {
 })
 
 app.get("/rest/:lang/:number", (req, res) => {
-  fs.readFile(`./db/${req.params.lang}.json`, async(err, data) => {
-    if (err) throw err;
-    const parseData = await JSON.parse(data);
-    const norms = _.get(parseData.norms, req.params.number);
-    res.json(norms);
-  });
+    fs.readFile(`./db/${req.params.lang}.json`, async(err, data) => {
+      if (err) throw err;
+      const parseData = await JSON.parse(data);
+
+      const normsNumbers = req.params.number.split("&");
+
+      const norms = [];
+
+      normsNumbers.forEach(normItem => {
+        const foundItem = _.get(parseData.norms, normItem.trim());
+        if (foundItem) {
+          norms.push(foundItem);
+        }
+      });
+
+      const result = norms.length > 0 ? norms : "No result to display";
+
+      res.json(result);
+    });
+
 })
 
 
